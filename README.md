@@ -26,5 +26,5 @@ Include links to your social media profiles, personal website, or any other plat
 
 You can include GitHub stats using shields or badges to display metrics like your number of followers, repositories, contributions, etc.
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kumarshanbhag&show_icons=true)
 
