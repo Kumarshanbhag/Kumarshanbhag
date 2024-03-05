@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kumar Shanbhag</h1>
 <h3 align="center">Experienced web developer with three years of hands-on expertise in front-end and back-end development. Proficient in HTML, CSS, JavaScript, and popular frameworks like React and Node.js. Skilled in database management, version control, and deploying applications to cloud platforms.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarshanbhag" alt="kumarshanbhag" /></a> </p>
 
 - 💬 Ask me about **React, Javascript, CSS, NEXT**
 
