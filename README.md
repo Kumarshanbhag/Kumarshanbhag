@@ -21,10 +21,3 @@ List your skills or technologies you're proficient in. You can use bullet points
 Include links to your social media profiles, personal website, or any other platforms where people can connect with you.
 
 - [LinkedIn](https://in.linkedin.com/in/kumar-shanbhag-61a5b8189)
-
-## GitHub Stats
-
-## You can include GitHub stats using shields or badges to display metrics like your number of followers, repositories, contributions, etc.
-
-## ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kumarshanbhag&show_icons=true)
-
