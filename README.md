@@ -20,10 +20,7 @@ List your skills or technologies you're proficient in. You can use bullet points
 
 Include links to your social media profiles, personal website, or any other platforms where people can connect with you.
 
-- [Website](link-to-website)
-- [LinkedIn](link-to-LinkedIn)
-- [Twitter](link-to-Twitter)
-- [Instagram](link-to-Instagram)
+- [LinkedIn](https://in.linkedin.com/in/kumar-shanbhag-61a5b8189)
 
 ## GitHub Stats
 
